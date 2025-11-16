@@ -50,7 +50,7 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 ---
 
 
-## 📊 OBSERVATION AND CALCULATION
+## 📊 OBSERVATION AND CALCULATION:
 
 - 
 Parameter of given fiber are,
@@ -59,5 +59,10 @@ From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
-## Tabulation
-## Result
+## Tabulation and Calculation:
+![WhatsApp Image 2025-11-13 at 11 15 03_3f01d46e](https://github.com/user-attachments/assets/8fbedf9a-e6df-43d6-aa92-984a39c6bda5)
+
+
+## Result:
+ Thus the Mode Characteristics of Fiber Optic Cable is observed and verified successfully.
+
